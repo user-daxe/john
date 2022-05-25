@@ -36,8 +36,11 @@ a:hover {
 }
 .top-container {
   background-color: powderblue;
-  position: relative;
+  
 
+}
+.trees {
+position: relative;
 }
 .footer{
 background-color: lavender;
