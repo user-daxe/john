@@ -115,12 +115,14 @@ background-color: black;
 .tree1 {
   position: absolute;
   top: 37%;
+  width: 14%;
 }
 
 .tree {
   position: absolute;
   top: 41%;
   left: 83%;
+  width: 14%;
 }
 
 /***********************************ALL HEADINGS*******************************/
